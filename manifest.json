@@ -1,0 +1,17 @@
+{
+  "name": "Casio JS-40B",
+  "short_name": "JS-40B",
+  "description": "Casio JS-40B Calculator Emulator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f2f6",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
